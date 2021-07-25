@@ -1,0 +1,19 @@
+﻿  Camera.cpp
+  main.cpp
+C:\Users\Roxana\Desktop\AN3\GP\lab\Prj\Prj\main.cpp(94,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Roxana\Desktop\AN3\GP\lab\Prj\Prj\main.cpp(334,19): warning C4305: '+=': truncation from 'double' to 'float'
+  Mesh.cpp
+C:\Users\Roxana\Desktop\AN3\GP\lab\Prj\Prj\Mesh.cpp(32,72): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Model3D.cpp
+C:\Users\Roxana\Desktop\AN3\GP\lab\Prj\Prj\Model3D.cpp(89,40): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLuint
+          ]
+C:\Users\Roxana\Desktop\AN3\GP\lab\Prj\Prj\Model3D.cpp(97,46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Shader.cpp
+  SkyBox.cpp
+  stb_image.cpp
+  tiny_obj_loader.cpp
+  Window.cpp
+LINK : fatal error LNK1181: cannot open input file 'libglew32d.lib'
